@@ -30,4 +30,15 @@ And the other is forgetting to write the player speed therefore my Player object
 ![image](https://user-images.githubusercontent.com/91538305/136021414-367c43b0-75f5-431e-b7e6-fabf773d59f2.png)
 
 
+## 12/10/2021
+
+Wirting the script for AI retreating once the player is too close
+
+
+The script did not work as I used less than instead of more than when identifying the limit of the speed
+
+
+
+
+
 
