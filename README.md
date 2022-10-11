@@ -1,41 +1,43 @@
 # ProgrammingLearning Journal
 
-## 28/09/2021
+## 04/10/2022
 
-Started programming course.
+Started programming course. Created all the templates; Journal, Task Log and Tutorial.
 
 
-## 05/10/2021
+## 11/10/2022
 
-While writing the player controller script, have faced 2 errors. 
-
-One being forggetting to rename the name of the script within the script, which I fixed by matching the name of the script and the public class name:
+First issue I came across was due to an autofill in visual studio without me noticing. As you can see in the images below, I inteded to write "Animation", and it changed it to the title of the script, which is "LightFlickerAnimation"
 
 #The error
-![image](https://user-images.githubusercontent.com/91538305/136020556-891778bf-e59a-45a0-ae1c-9a5255b30194.png)
+![image]()
 
 
 #The fix
-![image](https://user-images.githubusercontent.com/91538305/136021076-f86c48a1-a24e-46c6-9308-8e06cc2339ed.png)
+![image]()
 
 
+Then trying to test it out, it was not working, the mistake was putting the script on both the main object and on the light effect. After deleting the script component on the light source.
 
-And the other is forgetting to write the player speed therefore my Player object wouldn't move.
 
 #The error
-![image](https://user-images.githubusercontent.com/91538305/136021354-4e26a85d-e654-4dec-8e02-c5a8875ea27f.png)
+![image]()
 
 
 #The fix
-![image](https://user-images.githubusercontent.com/91538305/136021414-367c43b0-75f5-431e-b7e6-fabf773d59f2.png)
+![image]()
+
+After fixing the previous issue, I've noticed another missed detail. In the script for the animation, that is now attached to the main object only, had no Game Object selected for "Lamp Lights" which was a quick drag-and-drop fix.
+
+#The error
+![image]()
 
 
-## 12/10/2021
+#The fix
+![image]()
 
-Wirting the script for AI retreating once the player is too close
+## 12/10/2022
 
-
-The script did not work as I used less than instead of more than when identifying the limit of the speed
 
 
 
