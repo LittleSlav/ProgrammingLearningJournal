@@ -2,11 +2,12 @@
 
 ## 04/10/2022
 
-Started programming course. Created all the templates; Journal, Task Log and Tutorial.
+Started programming module. Created all the templates; Journal, Task Log and Tutorial.
 
 
 ## 11/10/2022
 
+(tutorial 1)
 First issue I came across was due to an autofill in visual studio without me noticing. As you can see in the images below, I inteded to write "Animation", and it changed it to the title of the script, which is "LightFlickerAnimation"
 
 #The error
@@ -44,8 +45,11 @@ After fixing the previous issue, I've noticed another missed detail. In the scri
 
 ## 25/10/2022
 
+## 01/11/2022
 
+## 08/11/2022
 
+## 15/11/2022
 
 
 
